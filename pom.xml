@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>net.ebour.tools.merge</groupId>
-    <artifactId>merge</artifactId>
+    <groupId>net.ebour.merger</groupId>
+    <artifactId>merger</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
