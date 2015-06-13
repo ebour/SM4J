@@ -1,2 +1,2 @@
-# TSJM
-The Semantic Java Merging tool
+# SM4J
+Semantic Merger For Java
