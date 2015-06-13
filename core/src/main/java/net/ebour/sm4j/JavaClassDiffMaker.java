@@ -1,7 +1,7 @@
-package net.ebour.merger;
+package net.ebour.sm4j;
 
-import net.ebour.merger.comparator.FieldComparator;
-import net.ebour.merger.comparator.MethodComparator;
+import net.ebour.sm4j.comparator.FieldComparator;
+import net.ebour.sm4j.comparator.MethodComparator;
 import org.jboss.forge.roaster.Roaster;
 import org.jboss.forge.roaster.model.JavaType;
 import org.jboss.forge.roaster.model.impl.JavaClassImpl;

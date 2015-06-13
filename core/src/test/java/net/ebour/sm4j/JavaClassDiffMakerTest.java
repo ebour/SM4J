@@ -1,8 +1,7 @@
-package net.ebour.merger;
+package net.ebour.sm4j;
 
 import junitparams.JUnitParamsRunner;
 import junitparams.Parameters;
-import org.jboss.forge.roaster.model.source.FieldSource;
 import org.jboss.forge.roaster.model.source.MethodSource;
 import org.junit.Before;
 import org.junit.Test;

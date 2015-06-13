@@ -1,4 +1,4 @@
-package net.ebour.merger;
+package net.ebour.sm4j;
 
 import org.jboss.forge.roaster.model.source.MethodSource;
 

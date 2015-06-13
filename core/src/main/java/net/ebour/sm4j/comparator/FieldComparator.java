@@ -1,4 +1,4 @@
-package net.ebour.merger.comparator;
+package net.ebour.sm4j.comparator;
 
 import org.jboss.forge.roaster.model.source.FieldSource;
 import org.jboss.forge.roaster.model.source.JavaClassSource;
