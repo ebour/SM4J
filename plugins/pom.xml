@@ -11,6 +11,11 @@
         <artifactId>merger</artifactId>
     </parent>
 
-    <artifactId>merger-cmdline</artifactId>
+    <artifactId>merger-plugins</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>idea</module>
+    </modules>
 
 </project>

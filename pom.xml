@@ -11,8 +11,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>lib</module>
-        <module>cmdline</module>
+        <module>core</module>
+        <module>plugins</module>
     </modules>
 
     <developers>
