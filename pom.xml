@@ -5,8 +5,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>net.ebour.merger</groupId>
-    <artifactId>merger</artifactId>
+    <groupId>net.ebour.sm4j</groupId>
+    <artifactId>sm4j</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
